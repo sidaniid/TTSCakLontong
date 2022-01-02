@@ -6,3 +6,8 @@ After that, install the dependencies by using this command in your terminal:
 ```sh
 npm i
 ```
+
+After that, run this command in your terminal:
+```sh
+node index
+```
